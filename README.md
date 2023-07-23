@@ -37,5 +37,5 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## Acknowledgments
 - Special thanks to Power BI for data visualization and analysis capabilities.
 - The [scikit-learn](https://scikit-learn.org/) library was used for machine learning tasks.
-- [*Sina Asghari*](https://github.com/sinaaasghari) and [*ArsalanMoravvej*](https://github.com/ArsalanMoravvej), [*Sina Saberi*], [*Mohammad Norasteh*](https://github.com/houman-nr) for their contributions and efforts in developing this project.
+- [*Sina Asghari*](https://github.com/sinaaasghari) and [*ArsalanMoravvej*](https://github.com/ArsalanMoravvej), [*Sina Saberi*](https://github.com/ssinasaberii), [*Mohammad Norasteh*](https://github.com/houman-nr) for their contributions and efforts in developing this project.
 
